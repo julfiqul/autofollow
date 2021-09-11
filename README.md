@@ -5,3 +5,4 @@
 # git clone https://github.com/julfiqul/autofollow
 # cd autofollow
 # python autofollow.py
+# Anti Ban Protection
