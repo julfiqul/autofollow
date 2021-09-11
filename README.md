@@ -4,4 +4,4 @@
 # apt install python && python2
 # git clone https://github.com/julfiqul/autofollow
 # cd autofollow
-# python2 autofollow.py
+# python autofollow.py
